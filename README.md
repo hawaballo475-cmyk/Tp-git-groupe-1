@@ -1,8 +1,12 @@
 ## Tooth Office
 Application mobile de gestion et prise de rendez-vous pour cabinets dentaires
 
+<<<<<<< HEAD
 
 ## Concept du projet
+=======
+## Concept général:
+>>>>>>> parent of d2103aa (modification de la concept general)
 Tooth Office est une application mobile qui permet :
 
 -Aux cabinets dentaires de créer un compte professionnel
