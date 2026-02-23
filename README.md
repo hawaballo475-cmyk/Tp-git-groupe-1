@@ -1,7 +1,7 @@
 ## Tooth Office
 Application mobile de gestion et prise de rendez-vous pour cabinets dentaires
 
-## Concept général:patient
+## Concept général
 Tooth Office est une application mobile qui permet :
 
 -Aux cabinets dentaires de créer un compte professionnel
