@@ -9,3 +9,4 @@ LISTE DES TESTS DU PROJET
    Assigné à : Diagana
 5. Test sur le design
    Assigné à : Hawa
+   Test API → Terminé par Fatou
