@@ -13,7 +13,7 @@ Tooth Office est une application mobile qui permet :
 -De discuter directement avec un dentiste via une chatbox intégrée
 
 
--De consulter les nouveautés, promotions et conseils santé
+-De consulter les nouveautés, promotions et conseils santé au Mali
 
 ## Objectif:
 L'objectif est de digitaliser la gestion des cabinets dentaires et améliorer l’expérience patient.
