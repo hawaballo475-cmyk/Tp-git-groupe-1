@@ -1,0 +1,11 @@
+LISTE DES TESTS DU PROJET
+1. Test : La création de compte
+   Assigné à : Fanene
+2. Test: coté utilisateur:
+   Assigné à : Ibrahim
+3. Test Chatbox intégrée
+   Assigné à : Ismail
+4. Test Section "Nouveautés"
+   Assigné à : Diagana
+5. Test sur le design
+   Assigné à : Hawa
